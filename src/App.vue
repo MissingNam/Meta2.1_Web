@@ -81,7 +81,7 @@ async function actualizarImagenes() {
     const foto2 = lista[idx2]
 
     imagen1.value = {
-      url: foto1.download_url,
+      url: `https://picsum.photos/id/${foto1.id}/300/200`,
       autor: foto1.author
     }
     imagen2.value = {

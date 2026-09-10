@@ -19,9 +19,9 @@
 
 <script setup>
 const habilidades = [
-  { nombre: 'Vue.js', nivel: 'Intermedio', anios: 1 },
-  { nombre: 'JavaScript', nivel: 'Intermedio', anios: 2 },
-  { nombre: 'HTML/CSS', nivel: 'Avanzado', anios: 2 },
+  { nombre: 'Vue.js', nivel: 'Bajo', anios: 0 },
+  { nombre: 'JavaScript', nivel: 'Bajo', anios: 0 },
+  { nombre: 'HTML/CSS', nivel: 'Bajo', anios: 0 },
   { nombre: 'Git', nivel: 'Básico', anios: 1 },
 ]
 </script>

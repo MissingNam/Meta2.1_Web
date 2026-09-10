@@ -1,6 +1,6 @@
 <template>
     <v-card>
-        <v-img :scr="imagenUrl" heigth="200" cover></v-img>
+        <v-img :src="imagenUrl" heigth="200" cover></v-img>
         <v-card-title>{{ titulo }}</v-card-title>
         <v-card-subtitle>Foto por: {{ autor }}</v-card-subtitle>
         <v-card-text>{{ descripcion }}</v-card-text>
